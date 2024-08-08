@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WesleyNogueiraOne&show_icons=true" />
 </picture>
 
-👨‍💻 Estudante de Ciência da Computação 🎓 | 5/8 Períodos
+👨‍💻 Estudante de Ciência da Computação 🎓 | 6/8 Períodos
 
 📱 Desenvolvedor Mobile em constante evolução
 
